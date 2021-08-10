@@ -3,8 +3,8 @@
  
 "json_popup_wait" : "Server Ready",
   
-"mode_no_ads" : true,
-"mode_tes_iklan_fan_admob_startapp_appdodeal" : true,
+"mode_no_ads" : false,
+"mode_tes_iklan_fan_admob_startapp_appdodeal" : false,
 
 // Mode Iklan
 // 
@@ -54,8 +54,8 @@
 "unity_id" : 4045251,
 "unity_test" : false,
 
-"applovin_banner_id" : "YOUR_AD_UNIT_ID",
-"applovin_inters_id" : "YOUR_AD_UNIT_ID",
+"applovin_banner_id" : "142a2c58a8dcfb4f",
+"applovin_inters_id" : "cf30bd5b47a8f5b1",
 
 "Button_Rating" : "Rating Sekarang",
 "Button_Share" : "Share",
