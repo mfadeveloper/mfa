@@ -49,9 +49,9 @@
 
 "appodeal_app_id" : "YOUR_APPODEAL_APP_KEY",
 
-"unity_banner_id" : "video",
-"unity_inters_id" : "Interstitial",
-"unity_id" : 4045251,
+"unity_banner_id" : "Banner",
+"unity_inters_id" : "video",
+"unity_id" : 4258553,
 "unity_test" : false,
 
 "applovin_banner_id" : "142a2c58a8dcfb4f",
